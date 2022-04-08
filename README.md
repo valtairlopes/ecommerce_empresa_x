@@ -26,4 +26,4 @@ checkout, tela de produto, catalago, home com banner
 ![Logo do PHP](https://www.geekproject.com.br/wp-content/uploads/2011/01/elephpant-elephant-php-logo.png)
 
 ## Links interessantes
-[Google](www.google.com.br)
+[Google](https://www.google.com.br)
