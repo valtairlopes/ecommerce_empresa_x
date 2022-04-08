@@ -18,3 +18,6 @@ checkout, tela de produto, catalago, home com banner
     3. CSS direferente para grupos clientes
 2. Integração com outros pagamentos
 3. Sistema de bonus primeira compra
+
+#### Imagem local
+![Logo do Python](img/python.png)
