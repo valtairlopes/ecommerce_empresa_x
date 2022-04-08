@@ -21,3 +21,6 @@ checkout, tela de produto, catalago, home com banner
 
 #### Imagem local
 ![Logo do Python](img/python.png)
+
+#### Imagem externa
+![Logo do PHP](https://www.geekproject.com.br/wp-content/uploads/2011/01/elephpant-elephant-php-logo.png)
