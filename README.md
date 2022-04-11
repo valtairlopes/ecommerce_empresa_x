@@ -35,4 +35,10 @@ function soma(a,b) {
     return a+b;
     }
     ...
-    
+
+
+## Lista de tarefas a fazer
+- [ ] Area de membros
+- [ ] Integração com outros pagamentos
+- [ ] Sistema de bonus
+- [ x ] CSS do rodapé
