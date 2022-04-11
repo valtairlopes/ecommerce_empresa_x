@@ -27,3 +27,12 @@ checkout, tela de produto, catalago, home com banner
 
 ## Links interessantes
 [Google](https://www.google.com.br)
+
+
+### Codigo da função soma
+
+function soma(a,b) {
+    return a+b;
+    }
+    ...
+    
